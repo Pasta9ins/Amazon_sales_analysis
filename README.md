@@ -2,7 +2,6 @@
 
 ![Image Description](https://github.com/najirh/Amazon.in_Sales_Data_Analysis/blob/main/amazon_india_wide_image.jpg)
 
-The goal of this project was to analyze raw sales data and answer key business questions relevant to e-commerce growth. By leveraging SQL, I explored sales trends, product performance, and customer profitability to showcase how structured queries can drive business decisions.
 
 ## 🔍 Project Overview  
 
